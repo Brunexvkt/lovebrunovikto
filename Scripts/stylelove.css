@@ -1,0 +1,199 @@
+body {background-color: rgb(228,140,163);
+	color: red;
+}
+
+h1 {
+	text-align: center;
+	font: Brush Script MT;
+	font-size: 600%;
+	color: red;
+}
+
+h2 {
+	text-align: center;
+	font: Liberation Serif;
+	font-size: 450%;
+	color: red;
+}
+
+h3 {	
+	text-align: center;
+	font: Liberation Serif;
+	font-size: 250%;
+	color: red;
+}
+
+h4 {
+	position: absolute;
+	font: Liberation Serif;
+	font-size: 150%;
+	color: red;
+	left: 47%;
+	top: 60%;
+	text-align: center;
+}
+
+h5 {
+	position: absolute;
+	font-size : 150%;
+	top: 800px;
+	left:150px;
+}
+
+h6 {
+	position: absolute;
+	font-size: 200%;
+	top: 600px;
+	left: 850px;
+	color: red;
+}
+
+.pich {
+	position: absolute;
+	top: 660px;
+	left: 730px;
+}
+
+.pichl {
+	position: absolute;
+	top: 660px;
+	left: 1030px;
+	-webkit-transform: scaleX(-1);
+ 	transform: scaleX(-1);
+}
+
+.picRight {
+	float: right;
+	margin-left: 20px;
+}
+
+.picFill {
+	width: 100%;
+  	height: 100%;
+  	object-fit: cover;
+	object-position: bottom;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+	text-align: center;
+}
+
+.retour {
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.txtheart {
+	position: absolute;
+	top: 335px;
+	left: 1180px;
+	-webkit-transform: scaleX(-1);
+ 	transform: scaleX(-1);
+}
+
+.fig1 {
+	position: absolute;
+	top: 550px;
+	left: 300px;
+}
+
+.fig2 {
+	position: absolute;
+	top: 700px;
+	left: 850px;
+}
+
+.fig3 {
+	position: absolute;
+	left: 850px;
+	top: 50px;
+}
+
+.fig4 {
+	position: absolute;
+	top: 150px;
+	left: 1450px;
+}
+
+.fig5 {
+	position: absolute;
+	left: 1350px;
+	top: 550px;
+}
+
+.fig6 {
+	position: absolute;
+	top: 150px;
+	left: 250px;
+}
+
+txtfig1 {
+	position: absolute;
+	top: 708px;
+	left: 210px;
+	color: black;
+}
+
+txtfig2 {
+	position: absolute;
+	top: 856px;
+	left: 885px;
+	color: black;
+}
+
+txtfig3 {
+	position: absolute;
+	left: 905px;
+	top: 205px;
+	color: black;
+}
+
+txtfig4 {
+	position: absolute;
+	top: 306px;
+	left: 1499px;
+	color: black;
+}
+
+txtfig5 {
+	position: absolute;
+	left: 1410px;
+	top: 681px;
+	color: black;
+}
+
+txtfig6 {
+	position: absolute;
+	top: 325px;
+	left: 55px;
+	color: black;
+	text-align: center;
+}
+
+.letter {
+	position: absolute;
+	top: 90px;
+	left: 350px;
+}
+.letterbd {
+	position: absolute;
+	top: 300px;
+	left: 550px;
+	color: black;
+	font-size: 150%;
+}
+
+.lettert {
+	position: absolute;
+	top: 200px;
+	left: 570px;
+	color: black;
+	font-size: 200%;
+}
+	
